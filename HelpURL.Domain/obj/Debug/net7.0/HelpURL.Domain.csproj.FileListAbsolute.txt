@@ -1,0 +1,17 @@
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\bin\Debug\net7.0\HelpURL.Domain.deps.json
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\bin\Debug\net7.0\HelpURL.Domain.runtimeconfig.json
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\bin\Debug\net7.0\HelpURL.Domain.dll
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\bin\Debug\net7.0\HelpURL.Domain.pdb
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\bin\Debug\net7.0\HelpURL.Domain.Core.dll
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\bin\Debug\net7.0\HelpURL.Domain.Core.pdb
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\HelpURL.Domain.csproj.AssemblyReference.cache
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\HelpURL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\HelpURL.Domain.AssemblyInfoInputs.cache
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\HelpURL.Domain.AssemblyInfo.cs
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\HelpURL.Domain.csproj.CoreCompileInputs.cache
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\HelpURL.Domain.csproj.CopyComplete
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\HelpURL.Domain.dll
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\refint\HelpURL.Domain.dll
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\HelpURL.Domain.pdb
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\HelpURL.Domain.genruntimeconfig.cache
+C:\GOIT\HelpURL\HelpURL\HelpURL.Domain\obj\Debug\net7.0\ref\HelpURL.Domain.dll

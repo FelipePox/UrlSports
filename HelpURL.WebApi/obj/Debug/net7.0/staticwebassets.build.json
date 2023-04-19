@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rS5TMAMXTYZBCMYZDNjj6bvHuv+EUOX5NMFu7TdGHn0=",
+  "Source": "HelpURL.WebApi",
+  "BasePath": "_content/HelpURL.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
